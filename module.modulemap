@@ -1,5 +1,5 @@
 module CapnSwift [system] {
-    header "capn/apn.h"
+    header "/usr/local/include/capn/apn.h"
     link "capn"
     export *
 }
